@@ -65,4 +65,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ramyad06/Leetcode/tree/master/0875-longest-mountain-in-array) |
+## String
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ramyad06/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Greedy
+|  |
+| ------- |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ramyad06/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
