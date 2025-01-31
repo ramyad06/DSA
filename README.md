@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramyad06/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0485-max-consecutive-ones](https://github.com/ramyad06/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0875-longest-mountain-in-array](https://github.com/ramyad06/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramyad06/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
