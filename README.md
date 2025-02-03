@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ramyad06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ramyad06/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ramyad06/Leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ramyad06/Leetcode/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramyad06/Leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
@@ -152,12 +154,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ramyad06/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyad06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyad06/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
