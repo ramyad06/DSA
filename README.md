@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ramyad06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ramyad06/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ramyad06/Leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramyad06/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ramyad06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramyad06/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ramyad06/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ramyad06/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ramyad06/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ramyad06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/ramyad06/Leetcode/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
