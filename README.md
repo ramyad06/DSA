@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/ramyad06/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramyad06/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ramyad06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/ramyad06/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramyad06/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ramyad06/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/ramyad06/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ramyad06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/ramyad06/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ramyad06/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ramyad06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/ramyad06/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Sorting
 |  |
 | ------- |
