@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ramyad06/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyad06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ramyad06/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/ramyad06/DSA/tree/master/0812-rotate-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ramyad06/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ramyad06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -293,4 +294,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ramyad06/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ramyad06/DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
