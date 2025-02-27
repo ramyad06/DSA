@@ -92,12 +92,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ramyad06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ramyad06/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
 ## Math
 |  |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/ramyad06/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyad06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ramyad06/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ramyad06/DSA/tree/master/0812-rotate-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ramyad06/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ramyad06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -234,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
 ## Hash Table
 |  |
@@ -247,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/ramyad06/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyad06/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Simulation
 |  |
