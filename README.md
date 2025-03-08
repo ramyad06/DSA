@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramyad06/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/ramyad06/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ramyad06/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ramyad06/Leetcode/tree/master/0189-rotate-array) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramyad06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ramyad06/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/ramyad06/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ramyad06/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/ramyad06/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ramyad06/DSA/tree/master/0131-palindrome-partitioning) |
@@ -271,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramyad06/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ramyad06/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ramyad06/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/ramyad06/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ramyad06/Leetcode/tree/master/0128-longest-consecutive-sequence) |
