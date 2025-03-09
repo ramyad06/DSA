@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/ramyad06/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ramyad06/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ramyad06/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ramyad06/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ramyad06/Leetcode/tree/master/0189-rotate-array) |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ramyad06/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ramyad06/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ramyad06/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/ramyad06/Leetcode/tree/master/0136-single-number) |
