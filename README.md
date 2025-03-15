@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0492-construct-the-rectangle](https://github.com/ramyad06/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [1013-fibonacci-number](https://github.com/ramyad06/Leetcode/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ramyad06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/ramyad06/DSA/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/ramyad06/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ramyad06/Leetcode/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/ramyad06/DSA/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
