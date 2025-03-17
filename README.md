@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/ramyad06/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/ramyad06/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/ramyad06/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ramyad06/DSA/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ramyad06/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/ramyad06/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ramyad06/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/ramyad06/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ramyad06/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ramyad06/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/ramyad06/DSA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/ramyad06/Leetcode/tree/master/0875-longest-mountain-in-array) |
 ## String
 |  |
@@ -348,4 +351,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramyad06/DSA/tree/master/0042-trapping-rain-water) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ramyad06/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
