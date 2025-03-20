@@ -338,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ramyad06/DSA/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/ramyad06/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ramyad06/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramyad06/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -360,8 +361,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ramyad06/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ramyad06/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ramyad06/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/ramyad06/DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
