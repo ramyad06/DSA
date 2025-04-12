@@ -367,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/ramyad06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramyad06/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ramyad06/DSA/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/ramyad06/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramyad06/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ramyad06/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramyad06/DSA/tree/master/2227-sum-of-subarray-ranges) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/ramyad06/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ramyad06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramyad06/DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ramyad06/DSA/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramyad06/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramyad06/DSA/tree/master/2227-sum-of-subarray-ranges) |
 ## Number Theory
@@ -399,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/ramyad06/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ramyad06/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramyad06/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/ramyad06/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -413,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ramyad06/DSA/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ramyad06/DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
