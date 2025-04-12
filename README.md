@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ramyad06/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ramyad06/Leetcode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/ramyad06/DSA/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ramyad06/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ramyad06/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramyad06/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/ramyad06/DSA/tree/master/0460-lfu-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/ramyad06/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/ramyad06/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ramyad06/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramyad06/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/ramyad06/DSA/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/ramyad06/DSA/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -416,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ramyad06/DSA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/ramyad06/DSA/tree/master/0460-lfu-cache) |
 ## Data Stream
 |  |
 | ------- |
