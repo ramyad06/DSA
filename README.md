@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/ramyad06/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/ramyad06/Leetcode/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/ramyad06/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0890-lemonade-change](https://github.com/ramyad06/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/ramyad06/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/ramyad06/DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/ramyad06/Leetcode/tree/master/0948-sort-an-array) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ramyad06/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0890-lemonade-change](https://github.com/ramyad06/DSA/tree/master/0890-lemonade-change) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ramyad06/Leetcode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ramyad06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ramyad06/Leetcode/tree/master/2032-largest-odd-number-in-string) |
