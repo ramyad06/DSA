@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/ramyad06/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ramyad06/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ramyad06/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ramyad06/DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/ramyad06/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ramyad06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ramyad06/Leetcode/tree/master/0054-spiral-matrix) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ramyad06/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ramyad06/DSA/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/ramyad06/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ramyad06/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ramyad06/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ramyad06/Leetcode/tree/master/0070-climbing-stairs) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ramyad06/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ramyad06/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/ramyad06/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/ramyad06/DSA/tree/master/0678-valid-parenthesis-string) |
