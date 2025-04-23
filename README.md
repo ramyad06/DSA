@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2047-find-a-peak-element-ii](https://github.com/ramyad06/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramyad06/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramyad06/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ramyad06/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -200,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/ramyad06/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ramyad06/DSA/tree/master/2050-count-good-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ramyad06/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/ramyad06/DSA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/ramyad06/Leetcode/tree/master/0875-longest-mountain-in-array) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ramyad06/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -360,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1370-count-number-of-nice-subarrays](https://github.com/ramyad06/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ramyad06/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ramyad06/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3799-unique-3-digit-even-numbers](https://github.com/ramyad06/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
