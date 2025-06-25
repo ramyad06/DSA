@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ramyad06/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ramyad06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ramyad06/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ramyad06/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/ramyad06/DSA/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ramyad06/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ramyad06/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1646-kth-missing-positive-number](https://github.com/ramyad06/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ramyad06/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ramyad06/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ramyad06/DSA/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Matrix
 |  |
 | ------- |
