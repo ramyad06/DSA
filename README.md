@@ -537,4 +537,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ramyad06/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ramyad06/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/ramyad06/DSA/tree/master/0199-binary-tree-right-side-view) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ramyad06/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
