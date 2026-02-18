@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ramyad06/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ramyad06/DSA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/ramyad06/Leetcode/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/ramyad06/DSA/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ramyad06/DSA/tree/master/3799-unique-3-digit-even-numbers) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/ramyad06/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ramyad06/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ramyad06/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/ramyad06/DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ramyad06/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ramyad06/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/ramyad06/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -430,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/ramyad06/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ramyad06/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ramyad06/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ramyad06/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/ramyad06/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ramyad06/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/ramyad06/DSA/tree/master/0678-valid-parenthesis-string) |
